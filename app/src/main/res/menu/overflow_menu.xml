@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aboutFragment"
+        android:title="@string/about" />
+    <item
+        android:id="@+id/generalFragment"
+        android:title="@string/general" />
+    <item
+        android:id="@+id/relationshipFragment"
+        android:title="@string/relationship" />
+    <item
+        android:id="@+id/peopleFragment"
+        android:title="@string/people" />
+    <item
+        android:id="@+id/timeFragment"
+        android:title="@string/time" />
+    <item
+        android:id="@+id/problemsFragment"
+        android:title="@string/problems" />
+    <item
+        android:id="@+id/workFragment"
+        android:title="@string/work" />
+</menu>
