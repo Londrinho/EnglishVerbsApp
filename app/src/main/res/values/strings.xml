@@ -7,6 +7,11 @@
     <string name="general3">CEDO PARA A CAMA E CEDO A SUBIR VAI TE TORNA UM HOMEM SAUDÁVEL, RICO E SÁBIO</string>
     <string name="general4">O CÃO É O MELHOR AMIGO DOS HOMENS</string>
     <string name="general5">A VINGANÇA É UM PRATO QUE SE SERVE FRIO</string>
+    <string name="general6">A GALINHA DO VIZINHO SEMPRE É MAIS GORDA</string>
+    <string name="general7">A CURIOSIDADE MATOU O GATO</string>
+    <string name="general8">VOCÊ NÃO PODE TER TUDO</string>
+    <string name="general9">DAR COM A LÍNGUA NOS DENTES</string>
+    <string name="general10">A CANETA É MAIS PODEROSA QUE A ESPADA</string>
 
     <string name="relationship">Relationships</string>
     <string name="relationship1">LONGE DOS OLHOS, PERTO DO CORAÇÃO</string>
@@ -14,6 +19,9 @@
     <string name="relationship3">A BELEZA ESTÁ NOS OLHOS DE QUEM VÊ</string>
     <string name="relationship4">O CURSO DO AMOR VERDADEIRO NUNCA CORREU BEM</string>
     <string name="relationship5">LONGE DOS OLHOS, PERTO DO CORAÇÃO</string>
+    <string name="relationship6">O QUE VEM FACIL, VAI FACIL</string>
+    <string name="relationship7">FARINHA DO MESMO SACO</string>
+    <string name="relationship8">PENSE BEM ANTES DE AGIR</string>
 
     <string name="people">People</string>
     <string name="people1">É PRECISO TODOS OS TIPOS PARA FAZER UM MUNDO</string>
@@ -21,6 +29,11 @@
     <string name="people3">RUIM COM ELE, PIOR SEM ELE</string>
     <string name="people4">UM É POUCO, DOIS É BOM, TRÊS É DEMAIS</string>
     <string name="people5">QUANDO O GATO SAI, OS RATOS TOMAM CONTA</string>
+    <string name="people6">UMA MÃO LAVA A OUTRA</string>
+    <string name="people7">APENDE A ANDAR ANTES DE CORRER</string>
+    <string name="people8">TER O OLHO MAIOR QUE A BARRIGA</string>
+    <string name="people9">QUEM TEM TELHADO DE VIDRO NÃO JOGA PEDRA NO TELHADO DO VIZINHO</string>
+    <string name="people10">PELA ARAGEM SE VÊ QUEM VAI NA CARRUAGEM</string>
 
     <string name="work">Work</string>
     <string name="work1">AS ACÇÕES VALEM MAIS DO QUE PALAVRAS</string>
@@ -28,6 +41,10 @@
     <string name="work3">UM MAU TRABALHADOR CULPA AS FERRAMENTAS</string>
     <string name="work4">PAU PARA TODA OBRA</string>
     <string name="work5">A PRÁTICA LEVA À PERFEIÇÃO</string>
+    <string name="work6">A UNIÃO FAZ A FORÇA</string>
+    <string name="work7">APROVEITA IMEDIATAMENTE UMA OPORTUNIDADE ANTES QUE A SITUAÇÃO MUDE</string>
+    <string name="work8">HONESTIDADE É O MELHOR CAMINHO</string>
+    <string name="work9">ROMA NÃO SE FEZ EM UM DIA</string>
 
     <string name="time">Time</string>
     <string name="time1">O TEMPO É DINHEIRO</string>
@@ -35,6 +52,9 @@
     <string name="time3">O TEMPO É UM ÓTIMO REMÉDIO</string>
     <string name="time4">A MELHOR HORA É AGORA</string>
     <string name="time5">HÁ UM MOMENTO E LUGAR PARA TUDO</string>
+    <string name="time6">ANTES TARDE DO QUE NUNCA</string>
+    <string name="time7">DEUS AJUDA QUEM CEDO MADRUGA</string>
+    <string name="time8">NÃO DEIXE PARA AMANHÃ O QUE SE PODE FAZER HOJE</string>
 
     <string name="problems">Problems</string>
     <string name="problems1">TUDO ESTÁ BEM QUANDO ACABA BEM</string>
@@ -42,6 +62,15 @@
     <string name="problems3">PARA A FOME NÃO HÁ PÃO DURO</string>
     <string name="problems4">DEUS AJUDA QUEM SE AJUDA</string>
     <string name="problems5">NÃO PONHAS TODOS OS OVOS NO MESMO CESTO</string>
+    <string name="problems6">NÃO MORDAS A MÃO QUE TE ALIMENTA</string>
+    <string name="problems7">NÃO ADIANTA CHORAR SOBRE O LEITE DERRAMADO</string>
+    <string name="problems8">NÃO SE FAZ OMELETE SEM QUEBRAR OVOS</string>
+    <string name="problems9">A PONTA DO ICEBERG</string>
+    <string name="problems10">NÃO FAÇA TEMPESTADE EM COPO de ÁGUA</string>
+    <string name="problems11">QUERER É PODER</string>
+    <string name="problems12">MUITOS COZINHEIROS ESTRAGAM A SOPA</string>
+    <string name="problems13">LIDAREMOS COM ESSE PROBLEMA QUANDO CHEGAR A HORA</string>
+    <string name="problems14">UM ERRO NÃO JUSTIFICA O OUTRO</string>
 
 
     <string name="about">About</string>
